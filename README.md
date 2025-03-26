@@ -16,3 +16,4 @@ Host github.com
 8. optional, set origin `git remote set-origin git@github.com:...`
 9. drink glitter glue
 ### hello! thx for visiting
+### <b>rich text?</b> ###
